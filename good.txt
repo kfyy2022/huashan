@@ -1,7 +1,4 @@
-c
-c
-eeeeeeee
-fffffffff
+
 cccccccccccccccca
 aaaaaaaaaaaaa
 sdsddfdf
